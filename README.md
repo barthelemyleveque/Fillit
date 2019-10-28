@@ -57,7 +57,7 @@ AAAA
 ...B`
 ```
 
-So when you execute the program with this txt file :
+So when you execute the program with this txt file, the smallest possible square will be :
 
 ```./fillit txt ```
 
